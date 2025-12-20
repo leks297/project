@@ -1,4 +1,4 @@
-# Project Responsive Web Design using Bootstrap
+# EX 09 Pharmacy Website using BOOTSRAP
 # Date:19-12-25
 # AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
